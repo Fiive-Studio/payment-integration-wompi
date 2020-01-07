@@ -1,4 +1,4 @@
-=== Woo Wompi Payment ===
+=== Payment Integration Wompi ===
 Contributors: saulmorales
 Donate link: https://secure.payco.co/checkoutopen/10775
 Tags: commerce, e-commerce, commerce, wordpress ecommerce, store, sales, sell, shop, shopping, cart, checkout, configurable, wompi, nequi, pse, Colombia
