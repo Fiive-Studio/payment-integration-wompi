@@ -21,8 +21,6 @@ Nota: Este plugin funciona únicamente en Colombia.
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [PHP](https://www.php.net/manual/es/intro-whatis.php) - Lenguaje de programación
 
 ## Autores ✒️
