@@ -1,4 +1,5 @@
-﻿# Título del Proyecto
+﻿# Payment-integration-wompi
+ Integración de Pago Wompi Woocomerce
 
 ![Fiive](https://fiivestudio.com/wp-content/uploads/2020/06/Fiive-Open-Source_2.png)
 
@@ -18,21 +19,11 @@ Payment Integration Wompi es un plugin que se integra con WooCommerce y permite 
 Nota: Este plugin funciona únicamente en Colombia.
 ```
 
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas o manuales para este sistema, si se incluye en el repositorio un archivo de Insonmia, PostMan, etc_
-
-## Deployment 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Framework XYZ](http://www.sitioweb.com) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [Nuget](https://www.nuget.org/) - Manejador de dependencias
+* [PHP](https://www.php.net/manual/es/intro-whatis.php) - Lenguaje de programación
 
 ## Autores ✒️
 
